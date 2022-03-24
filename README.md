@@ -1,6 +1,6 @@
 # my_wysiwyg
 
-Un excellent éditeur WYSIWYG écrit en pur JavaScript avec la librairie Jquery;
+Un excellent éditeur WYSIWYG écrit en  JavaScript avec la librairie Jquery;
 
 
 Vous avez la possibilité de modifier l'emplacement du texte, de droite à gauche, ou au centre.
