@@ -14,4 +14,4 @@ Il y a la possibilité d'ajouter des images, des vidéos ou des liens pour âcre
 
 
 
-Ceci est un projet de la WEBACADEMIE by Epitech réalisé dans le cadre de l'apprentissage du Jquery en 4 h. 
+Ceci est un projet d'Epitech réalisé dans le cadre de l'apprentissage du Jquery en 4 h. 
